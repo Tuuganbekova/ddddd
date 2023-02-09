@@ -1,2 +1,38 @@
-# ddddd
-dddd
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Цветы</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">  
+  <style>
+      
+        
+      .rounded-img
+      {
+        width: 80%;
+        border-radius:30%
+      }
+      </style>
+</head>
+<body>
+  <div class=" container text-center my-5"     >
+    <div class="row">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light.dark"> Розы</h1> 
+        <img class=" rounded-img "  src="https://img2.goodfon.ru/wallpaper/nbig/7/72/art-hagiwara-rin-devushka.jpg  "<br>
+        <p class="lead text-muted" >
+          Уже много тысячелетий роза пленяет людей своей чудесной красотой и ароматом цветков. Она является признанной королевой цветов. Об этом свидетельствуют многочисленные памятники культуры различных народов с сохранившимися изображениями роз.
+
+        </p>
+        
+       <button class="btn btn-primary"> <a href="https://www.youtube.com/watch?v=eDWzGAspSvM" target="_blank" class="btn btn-primary">
+          
+        </a>
+        Виды
+          </button>
+        </div>
+</body>
+</html>
+
